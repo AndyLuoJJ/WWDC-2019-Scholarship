@@ -1,0 +1,32 @@
+{
+    "items":[
+        {
+            "name":"ECG",
+            "brief_intro":"Potential when your heart beats",
+            "detail_1":"ECG stands for Electro-CardioGram, a recording - a graph of voltage versus time - of the electrical activity of the heart using electrodes placed on the skin. These electrodes detect the small electrical changes that are a consequence of cardiac muscle depolarization followed by repolarization during each cardiac cycle (heartbeat).",
+            "detail_2":"ECG is now a widely used method to detect heart diseases. Besides, not having enough sleep will also affect ECG and doctors will immediately know.",
+            "detail_3":"For the time being, ECG is used majorly in medical fields. Nevertheless, ECG has the potential to be used in analysing people's emotion, which can be helpful in solving the problem of depression."
+        },
+        {
+            "name":"EEG",
+            "brief_intro":"Potential when you think",
+            "detail_1":"EEG stands for Electro-EncephaloGram, an electrophysiological monitoring method to record electrical activity of the brain. A typical EEG signal contains 64 channels of individual signals, each representing an eletrode connected to the brain.",
+            "detail_2":"EEG is most often used to diagnose epilepsy, which causes abnormalities in EEG readings. It is also used to diagnose sleep disorders, depth of anesthesia, coma, encephalopathies, and brain death.",
+            "detail_3":"For patients without the ability to type on a keyboard, they can use a \"brain typer\" to type words just by thinking it. This devices is based on P300, one of the components of EEG."
+        },
+        {
+            "name":"EMG",
+            "brief_intro":"Potential when you use your muscles",
+            "detail_1":"EMG stands for Electro-MyoGraphy, a recording using an instrument called an electromyograph, an electrodiagnostic medicine technique for evaluating and recording the electrical activity produced by skeletal muscles. That means, when using your muscles, an electric potential can be mestured in your muscles, implicating the state of your action.",
+            "detail_2":"EMG is used as a diagnostics tool for identifying neuromuscular diseases, or as a research tool for studying disorders of motor control. They are also used as a control signal for prosthetic devices such as prosthetic upper and lower limbs.",
+            "detail_3":"Currently EMG is only used in medical fields. For patients suffering from inability to move, both EMG and EEG can help them to recover the ability to perform simple actions. Besides, it may be helpful to assist healthy people in many other ways."
+        },
+        {
+            "name":"EOG",
+            "brief_intro":"Potential when you use your eyes",
+            "detail_1":"EOG stands for Electro-OculoGram, the resulting signal of a technique for measuring the corneo-retinal standing potential that exists between the front and the back of the human eye. Whenever you blink or use your eye, there exists a potential, which can be analysed.",
+            "detail_2":"Primary applications of EOG are in ophthalmological diagnosis and in recording eye movements. EOG does not measure response to individual visual stimuli.",
+            "detail_3":"Apart from its medical usage, EOG can also be used as a computer input source, just as that in many fiction movies. Additionally, EOG can be used to judge the period of sleep, and may be helping in discovering the mystery of dreams."
+        }
+    ]
+}
